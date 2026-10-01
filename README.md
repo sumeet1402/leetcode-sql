@@ -35,6 +35,7 @@ Build strong problem-solving skills through consistent LeetCode practice.
 | [1068-product-sales-analysis-i](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
