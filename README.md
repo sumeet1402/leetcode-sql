@@ -37,6 +37,7 @@ Build strong problem-solving skills through consistent LeetCode practice.
 | [1148-article-views-i](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1661-average-time-of-process-per-machine) |
