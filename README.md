@@ -1,11 +1,9 @@
-# leetcode-sql-python
-My LeetCode problem-solving journey solutions, approaches, and practice across SQL, Python, and data structures &amp; algorithms, automatically synced using LeetHub
+# leetcode-sql
+My LeetCode problem-solving journey solutions, approaches, and practice across SQL, algorithms, automatically synced using LeetHub
 
 ## Topics
 
 - SQL
-- Python
-- Data Structures & Algorithms
 - Database
 - Algorithms
 
