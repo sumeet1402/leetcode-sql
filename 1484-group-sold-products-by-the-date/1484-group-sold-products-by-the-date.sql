@@ -1,6 +1,6 @@
-SELECT sell_date,
-    COUNT(DISTINCT product) AS num_sold,
-    GROUP_CONCAT(DISTINCT product ORDER BY product ASC SEPARATOR ',') AS products
-FROM Activities
-GROUP BY sell_date
-ORDER BY sell_date
+select
+sell_date,
+count(distinct product) as num_sold,
+group_concat(distinct product ) as products 
+from Activities
+group by sell_date
