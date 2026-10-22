@@ -48,6 +48,7 @@ Build strong problem-solving skills through consistent LeetCode practice.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1484-group-sold-products-by-the-date) |
+| [1517-find-users-with-valid-e-mails](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1667-fix-names-in-a-table) |
