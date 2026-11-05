@@ -65,6 +65,7 @@ Build strong problem-solving skills through consistent LeetCode practice.
 | [1795-rearrange-products-table](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1890-the-latest-login-in-2020) |
+| [1965-employees-with-missing-information](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/sumeet1402/leetcode-sql-python/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sumeet1402/leetcode-sql-python/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
