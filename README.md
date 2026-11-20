@@ -84,4 +84,12 @@ Build strong problem-solving skills through consistent LeetCode practice.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sumeet1402/leetcode-sql-python/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sumeet1402/leetcode-sql-python/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sumeet1402/leetcode-sql-python/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
